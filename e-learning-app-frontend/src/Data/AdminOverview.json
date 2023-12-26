@@ -1,0 +1,21 @@
+
+[
+    {
+        "id": 1,
+        "content": "NO OF USERS",
+        "numbers":5,
+        "imagePath":"noOfUsers.png"
+    },
+    {
+        "id": 2,
+        "content": "NO OF INSTRUCTOR",
+        "numbers":0,
+        "imagePath":"noOfInstructors.png"
+    },
+    {
+        "id": 3,
+        "content": "NO OF COURSES",
+        "numbers":0,
+        "imagePath":"noOfCourses.png"
+    }
+]

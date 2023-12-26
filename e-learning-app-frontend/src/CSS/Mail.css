@@ -1,0 +1,44 @@
+.EmailForm {
+  max-width: 400px;
+  /* margin-left: 120px; */
+}
+
+.EmailMessage {
+  margin-bottom: 40px;
+}
+
+.EmailName {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.EmailText[id="text"],
+input[id="email"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-color: black;
+  border-radius: 4px;
+}
+
+.EmailButton[type="submit"] {
+  width: 90px;
+  height: 50px;
+  background-color: rgba(135, 200, 235, 0.967);
+}
+
+.EmailButton[type="submit"]:hover[type="submit"]:hover {
+  background-color: #00b303ac;
+}
+
+.staffmail {
+  background-image: url('../Images/mail-background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  max-width: 100%;
+  position: inherit;
+}

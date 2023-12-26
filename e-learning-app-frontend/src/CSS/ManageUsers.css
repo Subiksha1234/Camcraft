@@ -1,0 +1,21 @@
+.tr:hover {
+    color: #b3cee5;
+}
+
+.table-hover tbody tr:hover,
+.table-hover tbody tr:hover td,
+.table-hover tbody tr:hover th {
+    background: rgba(179, 206, 229, 0.5) !important;
+    color: #000 !important;
+}
+
+.table-hover thead th{
+    background: #b3cee5 !important;
+}
+
+.table-container{
+
+    padding: 3%;
+    padding-top: 0%;
+    padding-left: 0%;
+}

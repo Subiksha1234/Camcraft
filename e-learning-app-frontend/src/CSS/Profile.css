@@ -1,0 +1,32 @@
+.profile-container-header{
+
+    position: absolute;
+    top: 31%;
+    left: 20%;
+    height: 15%;
+    width: 23%;
+    overflow: hidden;
+}
+
+.profile-header{
+
+    position: absolute;
+    top: 12%;
+    left: 19%;
+    height: 27%;
+    width:79%;
+    border-radius: 15px;
+}
+.personal-info{
+
+    position: absolute;
+    top: 48%;
+    left: 20%;
+    height: 52%;
+    width:79%;
+    overflow: auto;
+}
+
+.personal-info::-webkit-scrollbar{
+    display: none;
+}

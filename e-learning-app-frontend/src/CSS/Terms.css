@@ -1,0 +1,10 @@
+.card-title.d-flex{
+    color:rgba(0, 0, 0, 0.729);
+}
+.card-title.d-flex:hover{
+    color:black;
+}
+.card-header{
+    background-color: rgba(0, 0, 0, 0.775);
+    color:white;
+}

@@ -1,0 +1,14 @@
+.Catalog-background{
+
+    background-image: url('../Images/backgroundcatalog2.avif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    max-width: 100%;
+    position: inherit;
+  }
+
+.inner {
+    background-color: rgb(0, 0, 0, 0.7);
+}

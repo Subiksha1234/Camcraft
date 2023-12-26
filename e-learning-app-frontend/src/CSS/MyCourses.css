@@ -1,0 +1,11 @@
+#mycourses{
+    position: absolute;
+    top: 25%;
+    height: 75%;
+    width: 100%;
+    overflow: auto;
+}
+
+#mycourses::-webkit-scrollbar{
+    display: none;
+}
